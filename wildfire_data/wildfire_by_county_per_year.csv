@@ -1,0 +1,334 @@
+Counties,ArchiveYear,Count
+Alameda,2013,4
+Alameda,2015,5
+Alameda,2016,1
+Alameda,2017,5
+Alameda,2018,8
+Alameda,2019,9
+Alpine,2015,1
+Alpine,2016,1
+Amador,2013,1
+Amador,2014,1
+Amador,2015,2
+Amador,2016,5
+Amador,2017,1
+Amador,2018,2
+Amador,2019,1
+Butte,2013,7
+Butte,2014,3
+Butte,2015,6
+Butte,2016,10
+Butte,2017,18
+Butte,2018,13
+Butte,2019,9
+Calaveras,2013,2
+Calaveras,2014,2
+Calaveras,2015,1
+Calaveras,2016,7
+Calaveras,2017,5
+Calaveras,2018,3
+Calaveras,2019,2
+Colusa,2013,1
+Colusa,2017,1
+Colusa,2018,3
+Colusa,2019,1
+Contra Costa,2013,3
+Contra Costa,2014,1
+Contra Costa,2015,1
+Contra Costa,2016,1
+Contra Costa,2017,3
+Contra Costa,2018,9
+Contra Costa,2019,9
+Del Norte,2015,2
+Del Norte,2016,1
+Del Norte,2017,3
+El Dorado,2013,4
+El Dorado,2014,5
+El Dorado,2015,3
+El Dorado,2016,5
+El Dorado,2017,9
+El Dorado,2018,5
+El Dorado,2019,6
+Fresno,2013,6
+Fresno,2014,3
+Fresno,2015,4
+Fresno,2016,12
+Fresno,2017,24
+Fresno,2018,5
+Fresno,2019,3
+Glenn,2013,2
+Glenn,2017,1
+Glenn,2018,4
+Glenn,2019,1
+Humboldt,2013,2
+Humboldt,2014,4
+Humboldt,2015,5
+Humboldt,2016,3
+Humboldt,2017,6
+Humboldt,2018,4
+Humboldt,2019,1
+Inyo,2013,1
+Inyo,2014,2
+Inyo,2015,1
+Inyo,2016,2
+Inyo,2018,4
+Inyo,2019,2
+Kern,2013,4
+Kern,2014,4
+Kern,2015,3
+Kern,2016,12
+Kern,2017,24
+Kern,2018,9
+Kern,2019,6
+Kings,2017,3
+Kings,2018,1
+Kings,2019,1
+Lake,2013,10
+Lake,2014,3
+Lake,2015,6
+Lake,2016,7
+Lake,2017,8
+Lake,2018,10
+Lake,2019,5
+Lassen,2013,1
+Lassen,2015,5
+Lassen,2016,2
+Lassen,2017,8
+Lassen,2018,10
+Lassen,2019,10
+Los Angeles,2013,5
+Los Angeles,2014,3
+Los Angeles,2015,4
+Los Angeles,2016,7
+Los Angeles,2017,13
+Los Angeles,2018,8
+Los Angeles,2019,6
+Madera,2013,5
+Madera,2014,4
+Madera,2015,4
+Madera,2016,4
+Madera,2017,9
+Madera,2018,9
+Madera,2019,1
+Marin,2017,2
+Marin,2018,3
+Marin,2019,1
+Mariposa,2013,1
+Mariposa,2014,9
+Mariposa,2015,3
+Mariposa,2017,12
+Mariposa,2018,5
+Mariposa,2019,5
+Mendocino,2013,4
+Mendocino,2014,3
+Mendocino,2015,4
+Mendocino,2016,2
+Mendocino,2017,4
+Mendocino,2018,7
+Mendocino,2019,4
+Merced,2013,1
+Merced,2014,1
+Merced,2015,3
+Merced,2016,2
+Merced,2017,2
+Merced,2018,6
+Merced,2019,1
+Mexico,2019,2
+Modoc,2013,3
+Modoc,2014,4
+Modoc,2015,4
+Modoc,2016,2
+Modoc,2017,10
+Modoc,2018,4
+Modoc,2019,4
+Mono,2015,3
+Mono,2016,3
+Mono,2017,2
+Mono,2018,1
+Mono,2019,1
+Monterey,2013,3
+Monterey,2014,3
+Monterey,2015,2
+Monterey,2016,7
+Monterey,2017,14
+Monterey,2018,9
+Monterey,2019,7
+Napa,2013,3
+Napa,2014,3
+Napa,2015,4
+Napa,2016,1
+Napa,2017,6
+Napa,2018,5
+Napa,2019,3
+Nevada,2013,1
+Nevada,2014,3
+Nevada,2015,2
+Nevada,2016,2
+Nevada,2017,7
+Nevada,2018,1
+Nevada,2019,1
+Orange,2013,1
+Orange,2014,1
+Orange,2015,1
+Orange,2016,2
+Orange,2017,2
+Orange,2018,3
+Placer,2013,2
+Placer,2014,3
+Placer,2015,2
+Placer,2016,3
+Placer,2018,2
+Placer,2019,5
+Plumas,2013,1
+Plumas,2015,1
+Plumas,2016,1
+Plumas,2017,5
+Plumas,2018,2
+Plumas,2019,1
+Riverside,2013,19
+Riverside,2014,6
+Riverside,2015,7
+Riverside,2016,4
+Riverside,2017,52
+Riverside,2018,25
+Riverside,2019,33
+Sacramento,2013,1
+Sacramento,2015,1
+Sacramento,2016,3
+Sacramento,2017,3
+Sacramento,2018,1
+Sacramento,2019,2
+San Benito,2013,1
+San Benito,2015,2
+San Benito,2016,4
+San Benito,2017,3
+San Benito,2018,8
+San Benito,2019,2
+San Bernardino,2013,10
+San Bernardino,2014,2
+San Bernardino,2015,6
+San Bernardino,2016,4
+San Bernardino,2017,17
+San Bernardino,2018,7
+San Bernardino,2019,7
+San Diego,2013,8
+San Diego,2014,13
+San Diego,2015,7
+San Diego,2016,7
+San Diego,2017,20
+San Diego,2018,17
+San Diego,2019,17
+San Joaquin,2013,1
+San Joaquin,2015,1
+San Joaquin,2016,1
+San Joaquin,2018,2
+San Joaquin,2019,3
+San Luis Obispo,2013,6
+San Luis Obispo,2014,1
+San Luis Obispo,2015,3
+San Luis Obispo,2016,5
+San Luis Obispo,2017,25
+San Luis Obispo,2018,14
+San Luis Obispo,2019,10
+San Mateo,2013,1
+San Mateo,2017,1
+San Mateo,2019,1
+Santa Barbara,2013,2
+Santa Barbara,2014,1
+Santa Barbara,2015,3
+Santa Barbara,2016,4
+Santa Barbara,2017,7
+Santa Barbara,2018,8
+Santa Barbara,2019,4
+Santa Clara,2013,2
+Santa Clara,2014,2
+Santa Clara,2015,2
+Santa Clara,2016,5
+Santa Clara,2017,8
+Santa Clara,2018,9
+Santa Clara,2019,11
+Santa Cruz,2017,1
+Santa Cruz,2018,2
+Santa Cruz,2019,1
+Shasta,2013,6
+Shasta,2014,9
+Shasta,2015,7
+Shasta,2016,6
+Shasta,2017,11
+Shasta,2018,16
+Shasta,2019,9
+Sierra,2017,2
+Siskiyou,2013,3
+Siskiyou,2014,7
+Siskiyou,2015,5
+Siskiyou,2016,7
+Siskiyou,2017,16
+Siskiyou,2018,10
+Siskiyou,2019,9
+Solano,2013,2
+Solano,2014,1
+Solano,2015,2
+Solano,2016,1
+Solano,2017,4
+Solano,2018,4
+Solano,2019,5
+Sonoma,2013,5
+Sonoma,2016,1
+Sonoma,2017,10
+Sonoma,2018,1
+Sonoma,2019,1
+Stanislaus,2013,1
+Stanislaus,2014,1
+Stanislaus,2015,1
+Stanislaus,2016,3
+Stanislaus,2017,6
+Stanislaus,2018,1
+Stanislaus,2019,7
+State of Nevada,2019,1
+State of Oregon,2019,1
+Sutter,2016,1
+Sutter,2018,1
+Sutter,2019,1
+Tehama,2013,5
+Tehama,2014,2
+Tehama,2015,3
+Tehama,2016,7
+Tehama,2017,11
+Tehama,2018,14
+Tehama,2019,9
+Trinity,2014,2
+Trinity,2015,7
+Trinity,2017,6
+Trinity,2018,4
+Trinity,2019,2
+Tulare,2013,2
+Tulare,2015,3
+Tulare,2016,4
+Tulare,2017,13
+Tulare,2018,6
+Tulare,2019,7
+Tuolumne,2013,3
+Tuolumne,2014,3
+Tuolumne,2015,3
+Tuolumne,2016,3
+Tuolumne,2017,5
+Tuolumne,2018,3
+Tuolumne,2019,2
+Ventura,2013,4
+Ventura,2014,1
+Ventura,2015,5
+Ventura,2016,6
+Ventura,2017,3
+Ventura,2018,5
+Ventura,2019,6
+Yolo,2013,1
+Yolo,2014,1
+Yolo,2016,3
+Yolo,2017,1
+Yolo,2018,3
+Yolo,2019,3
+Yuba,2013,1
+Yuba,2015,2
+Yuba,2016,1
+Yuba,2017,6
+Yuba,2019,4

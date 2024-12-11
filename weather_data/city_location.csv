@@ -1,0 +1,45 @@
+name,Lat,Long,county,elevation
+"Riverside, CA",33.95335,-117.396156,"Riverside",255
+"Moreno Valley, CA",33.9378,-117.2292,"Riverside",497
+"Corona, CA",33.8753,-117.5649,"Riverside",207
+"Glendale, CA",34.1426,-118.2551,"Los Angeles",160
+"Los Angeles, CA",34.0522,-118.2437,"Los Angeles",87
+"Long Beach, CA",33.7701,-118.1937,"Los Angeles",10
+"San Bernardino, CA",34.1083,-117.2898,"San Bernardino",321
+"Fontana, CA",34.0922,-117.4350,"San Bernardino",381
+"Rancho Cucamonga, CA",34.1064,-117.5931,"San Bernardino",375
+"Chula Vista, CA",32.6401,-117.0842,"San Diego",20
+"Oceanside, CA",33.1959,-117.3795,"San Diego",20
+"San Diego, CA",32.7157,-117.1611,"San Diego",19
+"Bakersfield, CA",35.3733,-119.0187,"Kern",123
+"Delano, CA",35.7688,-119.2471,"Kern",96
+"Ridgecrest, CA",35.6335,-117.6709,"Kern",696
+"Concord, CA",37.9775,-122.0311,"Contra Costa",23
+"Antioch, CA",38.0049,-121.8058,"Contra Costa",14
+"Richmond, CA",37.9358,-122.3477,"Contra Costa",18
+"Sacramento, CA",38.5816,-121.4944,"Sacramento",9
+"Elk Grove, CA",38.4088,-121.3716,"Sacramento",6
+"Folsom, CA",38.6779,-121.1761,"Sacramento",70
+"Oxnar, CA",34.1975,-119.1771,"Ventura",4
+"Thousand Oaks, CA",34.1706,-118.8376,"Ventura",270
+"Ventura, CA",34.2746,-119.2290,"Ventura",9
+"Fresno, CA",36.7378,-119.7871,"Fresno",93
+"Coalinga, CA",36.1379,-120.3590,"Fresno",204
+"Big Creek, CA",37.1141,-119.4894,"Fresno",1493
+"Roseville, CA",38.7521,-121.2880,"Placer",50
+"Crescent City, CA",41.7513,-124.2024,"Del Norte",10
+"Redding, CA",40.5865,-122.3917,"Shasta",171
+"South Lake Tahoe, CA",38.9399,-119.9772,"El Dorado",1897
+"Santa Maria, CA",34.9530,-120.4357,"Santa Barbara",66
+"Modesto, CA",37.6391,-120.9969,"Stanislaus",27
+"San Luis Obispo, CA",35.2828,-120.6596,"San Luis Obispo",71
+"Susanville, CA",40.4163,-120.6530,"Lassen",1280
+"Paso Robles, CA",35.6266,-120.6910,"San Luis Obispo",213
+"Alturas, CA",41.4874,-120.5422,"Modoc",1349
+"Santa Rosa, CA",38.4404,-122.7141,"Sonoma",50
+"El Centro, CA",32.7920,-115.5631,"Imperial",-12
+"Ukiah, CA",39.1502,-123.2078,"Mendocino",186
+"Barstow, CA",34.8958,-117.0173,"San Bernardino",664
+"Bishop, CA",37.3635,-118.3951,"Inyo",1267
+"Gaberville, CA",40.1012,-123.7920,"Humboldt",158
+"Salinas, CA",36.6777,-121.6555,"Monterey",16

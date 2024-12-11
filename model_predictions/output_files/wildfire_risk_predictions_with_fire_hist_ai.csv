@@ -1,0 +1,713 @@
+name,datetime,History,CurrentWeather,WildfireRiskPrediction,FireOccurred
+"Fresno, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 27.4°C
+    - Average Dew Point: 9.5%
+    - Average Precipitation: 0.0mm
+    - Average Precipitation Cover: 0.0%
+    - Average Wind Speed: 23.8kph
+    - Average Sea Level Pressure: 1012.4066666666669mb
+    - Average Solar Radiation: 347.2666666666666watts per square meter
+    - Average Elevation: 93.0m 
+    - Average Time Fire Has Occurred: 0.13333333333333333
+    ","
+    Current weather:
+    - Temperature: 29.7°C
+    - Dew Point: 10.8%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 29.2kph
+    - Sea Level Pressure: 1012.5mb
+    - Solar Radiation: 348.1 watts per square meter
+    - Elevation: 93m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature and wind speed over the past 15 days have been relatively high, increasing the likelihood of fire spread if one were to occur.
+2. The current temperature is higher than the average, which can further elevate the fire risk.
+3. The low average dew point and lack of recent precipitation indicate dry conditions, contributing to the potential for a wildfire to ignite and spread.",1
+"Fresno, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 28.2°C
+    - Average Dew Point: 11.3%
+    - Average Precipitation: 0.0mm
+    - Average Precipitation Cover: 0.0%
+    - Average Wind Speed: 22.5kph
+    - Average Sea Level Pressure: 1011.8600000000001mb
+    - Average Solar Radiation: 257.3933333333333watts per square meter
+    - Average Elevation: 93.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 23.1°C
+    - Dew Point: 9.3%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 21.9kph
+    - Sea Level Pressure: 1015.1mb
+    - Solar Radiation: 257.7 watts per square meter
+    - Elevation: 93m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively high at 28.2°C, which can contribute to dry conditions and increase the likelihood of wildfires.
+2. The average wind speed has been 22.5kph, which can help spread fires quickly once ignited.
+3. The current weather conditions, including temperature, wind speed, and low precipitation, indicate an elevated risk for wildfires.",0
+"Fresno, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 17.1°C
+    - Average Dew Point: 8.7%
+    - Average Precipitation: 1.1656666666666666mm
+    - Average Precipitation Cover: 6.9433333333333325%
+    - Average Wind Speed: 22.1kph
+    - Average Sea Level Pressure: 1014.2000000000002mb
+    - Average Solar Radiation: 213.63333333333333watts per square meter
+    - Average Elevation: 93.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 15.9°C
+    - Dew Point: 9.9%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 14.6kph
+    - Sea Level Pressure: 1015.9mb
+    - Solar Radiation: 153.5 watts per square meter
+    - Elevation: 93m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days is relatively moderate at 17.1°C, indicating a somewhat favorable condition for wildfire ignition.
+2. The current wind speed of 14.6kph is moderate, which can facilitate the spread of a potential wildfire.
+3. The current low solar radiation of 153.5 watts per square meter suggests reduced drying potential for fuels, contributing to a moderate wildfire risk.",0
+"Fresno, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 18.0°C
+    - Average Dew Point: 9.1%
+    - Average Precipitation: 3.6194mm
+    - Average Precipitation Cover: 19.444666666666667%
+    - Average Wind Speed: 22.6kph
+    - Average Sea Level Pressure: 1012.3133333333333mb
+    - Average Solar Radiation: 238.53333333333333watts per square meter
+    - Average Elevation: 93.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 21.3°C
+    - Dew Point: 9.8%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 32.5kph
+    - Sea Level Pressure: 1008.4mb
+    - Solar Radiation: 299.9 watts per square meter
+    - Elevation: 93m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average wind speed over the past 15 days has been relatively high at 22.6kph, and the current wind speed is even higher at 32.5kph, increasing the potential for rapid fire spread.
+2. The average temperature has been moderate at 18.0°C over the past 15 days, and the current temperature is slightly higher at 21.3°C, contributing to dry conditions that can fuel wildfires.
+3. While the current precipitation is 0.0mm, the average precipitation over the past 15 days has been 3.6194mm, which is not very high, indicating drier conditions that can elevate the wildfire risk.",0
+"San Diego, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 19.7°C
+    - Average Dew Point: 15.2%
+    - Average Precipitation: 0.0mm
+    - Average Precipitation Cover: 0.0%
+    - Average Wind Speed: 18.2kph
+    - Average Sea Level Pressure: 1014.8533333333332mb
+    - Average Solar Radiation: 269.68watts per square meter
+    - Average Elevation: 19.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 20.8°C
+    - Dew Point: 17.4%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 17.7kph
+    - Sea Level Pressure: 1012.9mb
+    - Solar Radiation: 294.1 watts per square meter
+    - Elevation: 19m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 19.7°C, which is not extremely high but still warm enough to contribute to fire risk.
+2. The average wind speed has been 18.2kph, which can help spread fires if they were to occur.
+3. The current weather conditions show a slightly higher temperature of 20.8°C and a moderate wind speed of 17.7kph, indicating a moderate risk for wildfires to start and potentially spread.",0
+"San Diego, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 23.2°C
+    - Average Dew Point: 18.7%
+    - Average Precipitation: 0.016666666666666666mm
+    - Average Precipitation Cover: 0.5553333333333333%
+    - Average Wind Speed: 18.5kph
+    - Average Sea Level Pressure: 1013.0533333333334mb
+    - Average Solar Radiation: 215.80666666666667watts per square meter
+    - Average Elevation: 19.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 21.6°C
+    - Dew Point: 15.0%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 18.0kph
+    - Sea Level Pressure: 1014.6mb
+    - Solar Radiation: 209.5 watts per square meter
+    - Elevation: 19m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 23.2°C, which can contribute to drying out vegetation but may not be extremely conducive to rapid fire spread.
+2. The average wind speed has been 18.5kph, which is moderate and can aid in spreading a potential fire, but it is not excessively high.
+3. The current conditions show no precipitation, low dew point, and moderate solar radiation, which can increase the fire risk but are not extreme factors at the moment.",0
+"San Diego, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 17.8°C
+    - Average Dew Point: 10.5%
+    - Average Precipitation: 0.005333333333333333mm
+    - Average Precipitation Cover: 2.776666666666667%
+    - Average Wind Speed: 18.1kph
+    - Average Sea Level Pressure: 1015.7666666666668mb
+    - Average Solar Radiation: 214.0666666666667watts per square meter
+    - Average Elevation: 19.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 16.3°C
+    - Dew Point: 10.4%
+    - Precipitation: 0.008mm
+    - Precipitation Cover: 4.17%
+    - Wind Speed: 16.6kph
+    - Sea Level Pressure: 1018.7mb
+    - Solar Radiation: 154.1 watts per square meter
+    - Elevation: 19m
+    ","Step 1: Moderate
+Step 2: Low
+
+Step 3:
+1. The average temperature over the past 15 days is relatively moderate at 17.8°C, which indicates a lower likelihood of extreme heat contributing to wildfire risk.
+2. The average wind speed of 18.1kph is moderate, which can help in spreading potential fires but is not excessively high to significantly increase the risk.
+3. The current precipitation level and cover are slightly higher than the averages, which can help in reducing the immediate risk of wildfire ignition.",0
+"San Diego, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 17.3°C
+    - Average Dew Point: 11.5%
+    - Average Precipitation: 1.0035333333333332mm
+    - Average Precipitation Cover: 9.721333333333332%
+    - Average Wind Speed: 23.2kph
+    - Average Sea Level Pressure: 1014.2533333333333mb
+    - Average Solar Radiation: 192.23999999999998watts per square meter
+    - Average Elevation: 19.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 16.8°C
+    - Dew Point: 10.5%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 19.9kph
+    - Sea Level Pressure: 1013.2mb
+    - Solar Radiation: 183.6 watts per square meter
+    - Elevation: 19m
+    ","Step 1: Low  
+Step 2: Low  
+Step 3:  
+1. The average precipitation over the past 15 days has been relatively high at 1.0035333333333332mm, indicating some moisture in the area which can lower the fire risk.  
+2. The current weather conditions show no precipitation and low wind speed, further reducing the likelihood of a wildfire starting or spreading.  
+3. The average solar radiation and temperature are not excessively high, decreasing the chances of ignition and rapid fire spread.",0
+"Bakersfield, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 28.0°C
+    - Average Dew Point: 8.6%
+    - Average Precipitation: 0.0mm
+    - Average Precipitation Cover: 0.0%
+    - Average Wind Speed: 20.9kph
+    - Average Sea Level Pressure: 1012.2466666666667mb
+    - Average Solar Radiation: 328.25333333333333watts per square meter
+    - Average Elevation: 123.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 29.9°C
+    - Dew Point: 10.3%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 24.2kph
+    - Sea Level Pressure: 1012.6mb
+    - Solar Radiation: 335.3 watts per square meter
+    - Elevation: 123m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature and wind speed over the past 15 days indicate conditions that are conducive to wildfire spread, but not extreme.
+2. The current weather conditions show slightly higher temperature and wind speed compared to the average, which could increase fire risk.
+3. The lack of recent precipitation and low dew point levels suggest drier conditions, further elevating the potential for wildfires.",0
+"Bakersfield, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 28.7°C
+    - Average Dew Point: 11.5%
+    - Average Precipitation: 0.0394mm
+    - Average Precipitation Cover: 0.5553333333333333%
+    - Average Wind Speed: 21.9kph
+    - Average Sea Level Pressure: 1011.6866666666666mb
+    - Average Solar Radiation: 256.7watts per square meter
+    - Average Elevation: 123.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 22.8°C
+    - Dew Point: 7.7%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 18.3kph
+    - Sea Level Pressure: 1015.0mb
+    - Solar Radiation: 241.3 watts per square meter
+    - Elevation: 123m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively high at 28.7°C, which can contribute to dry conditions and increase the likelihood of wildfires.
+2. The average wind speed over the past 15 days has been significant at 21.9kph, which can spread fires quickly if they occur.
+3. The current weather conditions show a moderate wind speed of 18.3kph and a low dew point of 7.7%, indicating a moderate risk of wildfires and potential severity if one were to ignite.",0
+"Bakersfield, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 18.3°C
+    - Average Dew Point: 7.5%
+    - Average Precipitation: 0.09733333333333333mm
+    - Average Precipitation Cover: 1.39%
+    - Average Wind Speed: 22.2kph
+    - Average Sea Level Pressure: 1013.7000000000002mb
+    - Average Solar Radiation: 236.5333333333333watts per square meter
+    - Average Elevation: 123.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 15.9°C
+    - Dew Point: 8.3%
+    - Precipitation: 0.04mm
+    - Precipitation Cover: 16.67%
+    - Wind Speed: 16.6kph
+    - Sea Level Pressure: 1015.8mb
+    - Solar Radiation: 166.7 watts per square meter
+    - Elevation: 123m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days is moderate, indicating conditions that can support wildfire spread.
+2. The current precipitation cover is relatively low at 16.67%, suggesting drier conditions that could contribute to fire risk.
+3. The wind speed is moderate at 16.6kph, which can potentially facilitate the rapid spread of a wildfire.",0
+"Bakersfield, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 18.4°C
+    - Average Dew Point: 8.9%
+    - Average Precipitation: 2.6417333333333333mm
+    - Average Precipitation Cover: 26.11133333333333%
+    - Average Wind Speed: 24.1kph
+    - Average Sea Level Pressure: 1011.98mb
+    - Average Solar Radiation: 248.67999999999998watts per square meter
+    - Average Elevation: 123.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 21.5°C
+    - Dew Point: 10.0%
+    - Precipitation: 0.029mm
+    - Precipitation Cover: 4.17%
+    - Wind Speed: 27.2kph
+    - Sea Level Pressure: 1008.5mb
+    - Solar Radiation: 265.6 watts per square meter
+    - Elevation: 123m
+    ","Step 1: Moderate
+
+Step 2: Moderate
+
+Step 3:
+1. The average temperature over the past 15 days in Bakersfield, CA has been relatively moderate at 18.4°C, which can support fire growth if other conditions are conducive.
+2. The average wind speed over the past 15 days has been 24.1kph, which is moderately high and can potentially spread fires quickly.
+3. The current weather conditions show an increase in temperature to 21.5°C and wind speed to 27.2kph, which can elevate the wildfire risk and severity.
+
+Overall, while the conditions do not indicate an immediate high risk, the combination of moderate temperature, wind speed, and current weather conditions suggest a moderate wildfire risk with potential for moderate severity.",0
+"Redding, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 27.2°C
+    - Average Dew Point: 9.9%
+    - Average Precipitation: 0.0mm
+    - Average Precipitation Cover: 0.0%
+    - Average Wind Speed: 22.9kph
+    - Average Sea Level Pressure: 1011.7mb
+    - Average Solar Radiation: 330.8266666666667watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.13333333333333333
+    ","
+    Current weather:
+    - Temperature: 29.1°C
+    - Dew Point: 11.1%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 20.4kph
+    - Sea Level Pressure: 1012.0mb
+    - Solar Radiation: 301.6 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days and the current temperature are relatively high, which can contribute to drier conditions and increase the likelihood of wildfires.
+2. The average wind speed over the past 15 days and the current wind speed are moderate, which can spread fires more easily.
+3. The average solar radiation over the past 15 days and the current solar radiation are significant, providing ample energy to fuel potential wildfires.",0
+"Redding, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 24.8°C
+    - Average Dew Point: 8.7%
+    - Average Precipitation: 0.000896551724137931mm
+    - Average Precipitation Cover: 0.43137931034482757%
+    - Average Wind Speed: 22.1kph
+    - Average Sea Level Pressure: 1011.8103448275859mb
+    - Average Solar Radiation: 255.58965517241379watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.6896551724137931
+    ","
+    Current weather:
+    - Temperature: 23.6°C
+    - Dew Point: 7.2%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 16.4kph
+    - Sea Level Pressure: 1015.5mb
+    - Solar Radiation: 265.5 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Low
+
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 24.8°C, which is not excessively high to significantly increase the wildfire risk.
+2. The current weather conditions show no precipitation and low wind speed, which reduces the immediate likelihood of a wildfire starting and spreading rapidly.
+3. The average solar radiation has been moderate at 255.6 watts per square meter, indicating that while there is some heat energy present, it is not at extreme levels that would pose a high wildfire risk.",1
+"Redding, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 24.8°C
+    - Average Dew Point: 8.7%
+    - Average Precipitation: 0.000896551724137931mm
+    - Average Precipitation Cover: 0.43137931034482757%
+    - Average Wind Speed: 22.1kph
+    - Average Sea Level Pressure: 1011.8103448275859mb
+    - Average Solar Radiation: 255.58965517241379watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.6896551724137931
+    ","
+    Current weather:
+    - Temperature: 23.6°C
+    - Dew Point: 7.2%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 16.4kph
+    - Sea Level Pressure: 1015.5mb
+    - Solar Radiation: 265.5 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 24.8°C, which suggests conditions are not excessively hot to significantly increase wildfire risk.
+2. The average wind speed of 22.1kph is moderate, indicating there is some potential for fire spread but not extreme conditions.
+3. The current weather conditions show no precipitation, low precipitation cover, and moderate wind speed, which could contribute to a moderate wildfire risk and severity.",1
+"Redding, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 24.8°C
+    - Average Dew Point: 8.7%
+    - Average Precipitation: 0.000896551724137931mm
+    - Average Precipitation Cover: 0.43137931034482757%
+    - Average Wind Speed: 22.1kph
+    - Average Sea Level Pressure: 1011.8103448275859mb
+    - Average Solar Radiation: 255.58965517241379watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.6896551724137931
+    ","
+    Current weather:
+    - Temperature: 23.6°C
+    - Dew Point: 7.2%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 16.4kph
+    - Sea Level Pressure: 1015.5mb
+    - Solar Radiation: 265.5 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature and wind speed over the past 15 days are conducive to wildfire spread, indicating a moderate risk.
+2. The current weather conditions, although not extreme, still present a potential for wildfire ignition and spread due to the moderate wind speed and dry conditions.
+3. The average solar radiation and low precipitation levels over the past 15 days suggest that the vegetation in the area may be dry and susceptible to catching fire.",1
+"Redding, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 13.9°C
+    - Average Dew Point: 9.9%
+    - Average Precipitation: 6.247mm
+    - Average Precipitation Cover: 31.94333333333333%
+    - Average Wind Speed: 17.0kph
+    - Average Sea Level Pressure: 1013.5mb
+    - Average Solar Radiation: 82.56666666666666watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 14.5°C
+    - Dew Point: 10.2%
+    - Precipitation: 0.108mm
+    - Precipitation Cover: 25.0%
+    - Wind Speed: 34.5kph
+    - Sea Level Pressure: 1014.1mb
+    - Solar Radiation: 111.7 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 13.9°C, which is not extremely high but still conducive to wildfire spread.
+2. The current wind speed is high at 34.5kph, which can quickly spread any potential fires.
+3. The average precipitation over the past 15 days has been moderate at 6.247mm, indicating some moisture in the area but not enough to significantly lower the fire risk.",0
+"Redding, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 17.7°C
+    - Average Dew Point: 8.6%
+    - Average Precipitation: 5.011733333333335mm
+    - Average Precipitation Cover: 17.77866666666667%
+    - Average Wind Speed: 30.5kph
+    - Average Sea Level Pressure: 1010.12mb
+    - Average Solar Radiation: 224.77333333333328watts per square meter
+    - Average Elevation: 171.0m 
+    - Average Time Fire Has Occurred: 0.26666666666666666
+    ","
+    Current weather:
+    - Temperature: 19.2°C
+    - Dew Point: 7.5%
+    - Precipitation: 8.686mm
+    - Precipitation Cover: 12.5%
+    - Wind Speed: 61.1kph
+    - Sea Level Pressure: 1006.9mb
+    - Solar Radiation: 316.7 watts per square meter
+    - Elevation: 171m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 17.7°C, which can contribute to fire risk but is not extreme.
+2. The current wind speed is high at 61.1kph, which can rapidly spread wildfires if they were to occur.
+3. The current precipitation amount is significant at 8.686mm, which may help dampen the immediate fire risk, but the high wind speed could counteract this.",0
+"Susanville, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 20.6°C
+    - Average Dew Point: 3.2%
+    - Average Precipitation: 0.26mm
+    - Average Precipitation Cover: 2.222%
+    - Average Wind Speed: 24.9kph
+    - Average Sea Level Pressure: 1018.4933333333333mb
+    - Average Solar Radiation: 343.1666666666667watts per square meter
+    - Average Elevation: 1280.0m 
+    - Average Time Fire Has Occurred: 0.13333333333333333
+    ","
+    Current weather:
+    - Temperature: 22.0°C
+    - Dew Point: 4.1%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 25.9kph
+    - Sea Level Pressure: 1019.7mb
+    - Solar Radiation: 352.1 watts per square meter
+    - Elevation: 1280m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature and wind speed over the past 15 days are relatively moderate, indicating a moderate risk of wildfire ignition and spread.
+2. The current weather conditions show slightly higher temperature and wind speed, which could contribute to increased fire activity if ignition occurs.
+3. The low precipitation levels and dry conditions suggest a moderate severity of potential wildfires if they were to happen.",0
+"Susanville, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 20.3°C
+    - Average Dew Point: 3.7%
+    - Average Precipitation: 0.7266666666666666mm
+    - Average Precipitation Cover: 6.110666666666666%
+    - Average Wind Speed: 24.7kph
+    - Average Sea Level Pressure: 1018.7466666666666mb
+    - Average Solar Radiation: 258.65999999999997watts per square meter
+    - Average Elevation: 1280.0m 
+    - Average Time Fire Has Occurred: 0.4666666666666667
+    ","
+    Current weather:
+    - Temperature: 13.2°C
+    - Dew Point: 2.4%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 11.2kph
+    - Sea Level Pressure: 1021.6mb
+    - Solar Radiation: 273.3 watts per square meter
+    - Elevation: 1280m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively moderate at 20.3°C, indicating conditions that are not excessively hot but still conducive to wildfire spread.
+2. The current wind speed is 11.2kph, which although not extremely high, can still facilitate the rapid spread of wildfires.
+3. The average solar radiation over the past 15 days has been moderate at 258.66 watts per square meter, providing enough heat energy to contribute to fire risk.",0
+"Susanville, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 8.5°C
+    - Average Dew Point: 2.8%
+    - Average Precipitation: 3.8000000000000003mm
+    - Average Precipitation Cover: 54.166666666666664%
+    - Average Wind Speed: 24.1kph
+    - Average Sea Level Pressure: 1014.6666666666666mb
+    - Average Solar Radiation: 156.16666666666666watts per square meter
+    - Average Elevation: 1280.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 8.0°C
+    - Dew Point: 1.7%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 27.7kph
+    - Sea Level Pressure: 1015.2mb
+    - Solar Radiation: 108.7 watts per square meter
+    - Elevation: 1280m
+    ","Step 1: Moderate
+
+Step 2: Moderate
+
+Step 3:
+1. The average wind speed over the past 15 days has been relatively high at 24.1kph, and the current wind speed is even higher at 27.7kph. Strong winds can quickly spread a wildfire, increasing the risk and severity.
+   
+2. The average precipitation cover over the past 15 days was moderate at 54.17%, but there has been no precipitation reported currently. Lack of recent rainfall can dry out vegetation, making it more susceptible to ignition and contributing to wildfire risk.
+   
+3. The current solar radiation is lower than the average over the past 15 days, which may slightly decrease the immediate risk of a wildfire starting due to reduced heat intensity. However, other factors like wind speed and dry conditions still pose a significant risk.",0
+"Susanville, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 11.7°C
+    - Average Dew Point: 1.0%
+    - Average Precipitation: 3.1199999999999997mm
+    - Average Precipitation Cover: 41.110666666666674%
+    - Average Wind Speed: 27.9kph
+    - Average Sea Level Pressure: 1012.4733333333334mb
+    - Average Solar Radiation: 240.69333333333333watts per square meter
+    - Average Elevation: 1280.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 12.0°C
+    - Dew Point: 3.0%
+    - Precipitation: 7.5mm
+    - Precipitation Cover: 87.5%
+    - Wind Speed: 24.1kph
+    - Sea Level Pressure: 1010.3mb
+    - Solar Radiation: 276.5 watts per square meter
+    - Elevation: 1280m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively low at 11.7°C, which can reduce the likelihood of rapid fire spread.
+2. The current precipitation of 7.5mm and high precipitation cover of 87.5% indicate some moisture in the area, which can lower the immediate fire risk.
+3. The average wind speed of 27.9kph over the past 15 days and the current wind speed of 24.1kph, though moderate, can still contribute to fire spread if ignition occurs.",0
+"Crescent City, CA",2019-07-15,"
+    Over the past 15 days:
+    - Average Temperature: 14.5°C
+    - Average Dew Point: 12.7%
+    - Average Precipitation: 0.059133333333333336mm
+    - Average Precipitation Cover: 0.8333333333333334%
+    - Average Wind Speed: 19.8kph
+    - Average Sea Level Pressure: 1018.4133333333335mb
+    - Average Solar Radiation: 250.58666666666667watts per square meter
+    - Average Elevation: 10.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 15.7°C
+    - Dew Point: 14.4%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 14.3kph
+    - Sea Level Pressure: 1019.9mb
+    - Solar Radiation: 271.1 watts per square meter
+    - Elevation: 10m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average wind speed over the past 15 days (19.8kph) is relatively high, which can contribute to the spread of wildfires if they occur.
+2. The average precipitation cover over the past 15 days (0.8333%) indicates a relatively dry period, increasing the potential for fire ignition and spread.
+3. The current weather conditions show moderate temperatures (15.7°C) and wind speed (14.3kph), which, combined with the other factors, suggest a moderate risk of wildfire and potential severity.",0
+"Crescent City, CA",2019-09-11,"
+    Over the past 15 days:
+    - Average Temperature: 16.2°C
+    - Average Dew Point: 14.4%
+    - Average Precipitation: 0.5411333333333332mm
+    - Average Precipitation Cover: 8.333333333333334%
+    - Average Wind Speed: 16.8kph
+    - Average Sea Level Pressure: 1016.3199999999999mb
+    - Average Solar Radiation: 162.22watts per square meter
+    - Average Elevation: 10.0m 
+    - Average Time Fire Has Occurred: 0.26666666666666666
+    ","
+    Current weather:
+    - Temperature: 15.2°C
+    - Dew Point: 13.6%
+    - Precipitation: 0.0mm
+    - Precipitation Cover: 0.0%
+    - Wind Speed: 17.5kph
+    - Sea Level Pressure: 1020.0mb
+    - Solar Radiation: 173.2 watts per square meter
+    - Elevation: 10m
+    ","Step 1: Moderate  
+Step 2: Moderate  
+Step 3:  
+1. Moderate wildfire risk is predicted due to the average wind speed of 16.8kph over the past 15 days and the current wind speed of 17.5kph, which can facilitate the spread of fires.  
+2. The average temperature of 16.2°C over the past 15 days and the current temperature of 15.2°C indicate moderate conditions that can support fire growth.  
+3. The average dew point of 14.4% over the past 15 days and the current dew point of 13.6% suggest relatively dry conditions that increase the potential for fire ignition and spread.",1
+"Crescent City, CA",2019-04-04,"
+    Over the past 15 days:
+    - Average Temperature: 11.5°C
+    - Average Dew Point: 10.4%
+    - Average Precipitation: 3.916333333333334mm
+    - Average Precipitation Cover: 50.0%
+    - Average Wind Speed: 19.7kph
+    - Average Sea Level Pressure: 1013.9333333333333mb
+    - Average Solar Radiation: 68.76666666666667watts per square meter
+    - Average Elevation: 10.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 11.8°C
+    - Dew Point: 10.6%
+    - Precipitation: 4.458mm
+    - Precipitation Cover: 50.0%
+    - Wind Speed: 25.0kph
+    - Sea Level Pressure: 1013.7mb
+    - Solar Radiation: 47.0 watts per square meter
+    - Elevation: 10m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively low at 11.5°C, which reduces the likelihood of extreme fire behavior.
+2. The average wind speed has been moderate at 19.7kph, which can aid in fire spread but is not excessively high.
+3. The current precipitation level of 4.458mm and past 15 days' average precipitation of 3.916mm may dampen the fuel and reduce the fire risk, although the precipitation cover has been at 50%, indicating some dryness in the area.",0
+"Crescent City, CA",2019-05-25,"
+    Over the past 15 days:
+    - Average Temperature: 11.8°C
+    - Average Dew Point: 9.6%
+    - Average Precipitation: 5.290933333333332mm
+    - Average Precipitation Cover: 22.778000000000002%
+    - Average Wind Speed: 29.0kph
+    - Average Sea Level Pressure: 1012.4866666666666mb
+    - Average Solar Radiation: 177.30000000000004watts per square meter
+    - Average Elevation: 10.0m 
+    - Average Time Fire Has Occurred: 0.0
+    ","
+    Current weather:
+    - Temperature: 10.8°C
+    - Dew Point: 8.4%
+    - Precipitation: 2.619mm
+    - Precipitation Cover: 20.83%
+    - Wind Speed: 34.4kph
+    - Sea Level Pressure: 1014.0mb
+    - Solar Radiation: 157.7 watts per square meter
+    - Elevation: 10m
+    ","Step 1: Moderate
+Step 2: Moderate
+Step 3:
+1. The average temperature over the past 15 days has been relatively cool at 11.8°C, which may reduce the overall fire risk compared to hotter conditions.
+2. The average precipitation over the past 15 days has been relatively high at 5.29mm, which could have helped dampen vegetation and reduce fire fuel.
+3. The current wind speed is elevated at 34.4kph, which can enhance the spread of a potential wildfire, leading to a moderate risk and severity prediction.",0
